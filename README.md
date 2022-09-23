@@ -14,6 +14,7 @@ As is, the plugin will render the following task attributes:
 - CRM ID: {task.attributes.crmid}
 - From: {task.attributes.from}
 
+You can add/remove attributes based on your business needs.
 
 ### Here's how it looks:
 
