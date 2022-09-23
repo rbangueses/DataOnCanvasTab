@@ -9,4 +9,5 @@ It can be used to present data from a CRM or any other data source. This assumes
 If you want to add/remove/make changes to the information presented on the task canvas tab, edit the DataOnCanvasComponent.js.
 
 ```
+![Sample look and feel](https://github.com/rbangueses/DataOnCanvasTab/blob/main/Sample.png)
 
