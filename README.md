@@ -6,7 +6,13 @@ It can be used to present data from a CRM or any other data source. This assumes
 
 ## Setup
 
-If you want to add/remove/make changes to the information presented on the task canvas tab, edit the DataOnCanvasComponent.js.
+If you want to add/remove/make changes to the information presented on the task canvas tab, edit the DataOnCanvasComponent.js. 
+
+As is, the plugin will render the following task attributes:
+
+- Name: {task.attributes.name}
+- CRM ID: {task.attributes.crmid}
+-From: {task.attributes.from}
 
 
 ### Here's how it looks:
