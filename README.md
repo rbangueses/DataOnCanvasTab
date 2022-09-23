@@ -12,7 +12,7 @@ As is, the plugin will render the following task attributes:
 
 - Name: {task.attributes.name}
 - CRM ID: {task.attributes.crmid}
--From: {task.attributes.from}
+- From: {task.attributes.from}
 
 
 ### Here's how it looks:
